@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\models\\ProdukModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project Akhir PBO\\models\\ProdukModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\Tugas Akhir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project Akhir PBO\\Tugas Akhir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\Buyer.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project Akhir PBO\\views\\Buyer.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\register.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project Akhir PBO\\views\\register.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\Transaksi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project Akhir PBO\\views\\Transaksi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tugas Akhir.csproj",
+              "DocumentMoniker": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\Tugas Akhir.csproj",
+              "RelativeDocumentMoniker": "Project Akhir PBO\\Tugas Akhir.csproj",
+              "ToolTip": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\Tugas Akhir.csproj",
+              "RelativeToolTip": "Project Akhir PBO\\Tugas Akhir.csproj",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T14:42:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdukModel.cs",
+              "DocumentMoniker": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\models\\ProdukModel.cs",
+              "RelativeDocumentMoniker": "Project Akhir PBO\\models\\ProdukModel.cs",
+              "ToolTip": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\models\\ProdukModel.cs",
+              "RelativeToolTip": "Project Akhir PBO\\models\\ProdukModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:42:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buyer.Designer.cs",
+              "DocumentMoniker": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\Buyer.Designer.cs",
+              "RelativeDocumentMoniker": "Project Akhir PBO\\views\\Buyer.Designer.cs",
+              "ToolTip": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\Buyer.Designer.cs",
+              "RelativeToolTip": "Project Akhir PBO\\views\\Buyer.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:42:39.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.Designer.cs",
+              "DocumentMoniker": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\register.Designer.cs",
+              "RelativeDocumentMoniker": "Project Akhir PBO\\views\\register.Designer.cs",
+              "ToolTip": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\register.Designer.cs",
+              "RelativeToolTip": "Project Akhir PBO\\views\\register.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:42:23.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaksi.Designer.cs",
+              "DocumentMoniker": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\Transaksi.Designer.cs",
+              "RelativeDocumentMoniker": "Project Akhir PBO\\views\\Transaksi.Designer.cs",
+              "ToolTip": "D:\\PBO\\Project-Tugas-Akhir-PBO-main\\Project Akhir PBO\\views\\Transaksi.Designer.cs",
+              "RelativeToolTip": "Project Akhir PBO\\views\\Transaksi.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:41:57.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
